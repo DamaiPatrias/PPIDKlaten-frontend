@@ -1,4 +1,4 @@
-# ppidklatenvue2
+# PPIDKlaten-frontend
 
 ## Project setup
 ```
