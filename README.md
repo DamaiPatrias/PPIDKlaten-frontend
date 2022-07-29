@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Informasi Tambahan
+Pertama kali menggunakan Vue JS [DamaiPatrias](https://github.com/DamaiPatrias). 
